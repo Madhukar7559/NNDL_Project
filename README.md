@@ -1,4 +1,5 @@
-# NNDL_Project
+# Code and Front End
+* #### Instructions to run the FrontEnd are in Application/readme.md
 ### Dataset - https://www.kaggle.com/datasets/msambare/fer2013
 ## Team 
 Mohammad Aman Sohel - BL.EN.U4CSE20102 <br>
